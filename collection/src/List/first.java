@@ -8,6 +8,7 @@ public class first {
 
 	public static void main(String[] args) 
 	{
+		system.out.println("me");
 		List <String> mh = new ArrayList();
 		mh.add("Pune");
 		mh.add("Nagpur");
